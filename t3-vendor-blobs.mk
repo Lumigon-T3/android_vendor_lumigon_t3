@@ -143,6 +143,7 @@ PRODUCT_COPY_FILES += \
     vendor/lumigon/t3/proprietary/etc/firmware/mt6630/mt6630_fm_v5_coeff_tx.bin:system/etc/firmware/mt6630/mt6630_fm_v5_coeff_tx.bin \
     vendor/lumigon/t3/proprietary/etc/firmware/mt6630/mt6630_fm_v5_patch.bin:system/etc/firmware/mt6630/mt6630_fm_v5_patch.bin \
     vendor/lumigon/t3/proprietary/etc/firmware/mt6630/mt6630_fm_v5_patch_tx.bin:system/etc/firmware/mt6630/mt6630_fm_v5_patch_tx.bin \
+    vendor/lumigon/t3/proprietary/etc/firmware/synaptics/startup_fw_update.img:system/etc/firmware/synaptics/startup_fw_update.img \
     vendor/lumigon/t3/proprietary/etc/firmware/mt6630_ant_m1.cfg:system/etc/firmware/mt6630_ant_m1.cfg \
     vendor/lumigon/t3/proprietary/etc/firmware/mt6630_patch_e1_hdr.bin:system/etc/firmware/mt6630_patch_e1_hdr.bin \
     vendor/lumigon/t3/proprietary/etc/firmware/mt6630_patch_e2_hdr.bin:system/etc/firmware/mt6630_patch_e2_hdr.bin \
